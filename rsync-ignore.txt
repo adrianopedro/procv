@@ -1,0 +1,8 @@
+.*
+rsync*
+*sublime*
+
+storage
+#node_modules
+vendor
+bootstrap
