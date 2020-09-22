@@ -1,6 +1,6 @@
 ## About ProCV
 
-ProCV is a Laravel based single page application for your professional profile.
+ProCV is a personal professional resume CV and portfolio website, developed in Laravel with [TemplateFlip Creative CV](https://templateflip.com/templates/creative-cv/) design.
 
 ## How to use/install
 
