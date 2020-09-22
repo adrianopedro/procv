@@ -4,7 +4,7 @@ ProCV is a personal professional resume CV and portfolio website, developed in L
 
 ## Demo
 
-[adrianopedro.pt](http://adrianopedro.pt)
+View my own personal page at [adrianopedro.pt](http://adrianopedro.pt)
 
 ## How to use/install
 
