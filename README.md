@@ -2,6 +2,11 @@
 
 ProCV is a personal professional resume CV and portfolio website, developed in Laravel with [TemplateFlip Creative CV](https://templateflip.com/templates/creative-cv/) design.
 
+## Features
+
+- Dynamic data
+- PDF resume export/generation from data 
+
 ## Demo
 
 View my own personal page at [adrianopedro.pt](http://adrianopedro.pt)
