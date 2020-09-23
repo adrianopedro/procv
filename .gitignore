@@ -15,4 +15,4 @@ yarn-error.log
 *.sublime-project
 rsync*
 
-.*
+.DS*
